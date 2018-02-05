@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //margins
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_normal">24dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+
+    //heights
+    <dimen name="button_height">32dp</dimen>
+
+    //text sizes
+    <dimen name="text_medium">16sp</dimen>
+
+    //images
+    <dimen name="image_normal">100dp</dimen>
+</resources>
